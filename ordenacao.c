@@ -1,4 +1,11 @@
-
+/*
+    MEMBROS DO GRUPO:
+    Sofia Baldissera Pereira
+    Eduardo Dourado Gomes Mouro de Angelo
+    Fillipe Reis Tomazelli
+    Tiago Francisco Moreira de Oliveira
+    Joaquim Fernandes Cardoso Neto
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
