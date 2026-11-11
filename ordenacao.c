@@ -5,6 +5,7 @@
     Fillipe Reis Tomazelli
     Tiago Francisco Moreira de Oliveira
     Joaquim Fernandes Cardoso Neto
+    Vinícius Pereira Burg
 */
 
 #include <stdio.h>
